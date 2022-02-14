@@ -1,0 +1,9 @@
+﻿<Application x:Class="LabSheet4_LINQ_with_Local_DataBases.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:LabSheet4_LINQ_with_Local_DataBases"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
